@@ -1,4 +1,4 @@
-Bootstrap-Flask == 2.4.1
+Bootstrap-Flask == 2.4.2
 click           == 8.1.8
 dominate        == 2.9.1
 Flask           == 3.1.0
@@ -7,15 +7,15 @@ flask-bootstrap5 >= 0.1.dev1
 importlib-metadata == 8.6.1
 pip-install         == 1.3.5
 itsdangerous    == 2.2.0
-Jinja2          == 3.1.5
+Jinja2          == 3.1.6
 libsass         == 0.23.0
 MarkupSafe      == 3.0.2
-numpy           == 2.2.3
+numpy           == 2.2.4
 pandas          == 2.2.3
 pip             == 25.0.1
 python-dateutil == 2.9.0.post0
 pytz            == 2025.1
-setuptools      == 75.8.2
+setuptools      == 76.0.0
 six             == 1.17.0
 toml            == 0.10.2
 typing_extensions == 4.12.2
@@ -24,7 +24,7 @@ webassets       == 2.0
 Werkzeug        == 3.1.3
 WTForms         == 3.2.1
 zipp            == 3.21.0
-sqlalchemy      == 2.0.38
+sqlalchemy      == 2.0.39
 flask-sqlalchemy >= 3.0.1
 psycopg2-binary == 2.9.10
 flask-migrate   == 4.1.0
