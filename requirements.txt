@@ -24,12 +24,12 @@ pip             == 25.0.1
 pip-install         == 1.3.5
 psycopg2-binary == 2.9.10
 python-dateutil == 2.9.0.post0
-pytz            == 2025.1
-setuptools      == 78.0.2
+pytz            == 2025.2
+setuptools      == 78.1.0
 six             == 1.17.0
-sqlalchemy      == 2.0.39
+sqlalchemy      == 2.0.40
 toml            == 0.10.2
-typing_extensions == 4.12.2
+typing_extensions == 4.13.1
 visitor         == 0.1.3
 webassets       == 2.0
 Werkzeug        == 3.1.3
